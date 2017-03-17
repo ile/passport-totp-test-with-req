@@ -1,5 +1,5 @@
 {
-  "name": "passport-totp",
+  "name": "passport-totp-with-req",
   "version": "0.0.2",
   "description": "TOTP authentication strategy for Passport.",
   "keywords": [
